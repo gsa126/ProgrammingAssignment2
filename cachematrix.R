@@ -1,4 +1,4 @@
-## These functions ofcreate inverse  a  given matrix and then cache the inverted matrix
+## These functions create inverse  of a  given matrix and then cache the inverted matrix
 ## such that when next time inverse of the same matrix is needed, the function gets value
 ## from cache instead of recaclulating 
 
